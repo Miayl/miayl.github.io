@@ -101,7 +101,7 @@ body {
 
 .imagecontainer img {
 	width: 100%;
-	transition: transform .2;
+	transition: transform 0.25 ease;
 }
 
 /* TODO replace with mouse click
@@ -133,7 +133,7 @@ body {
 	margin: auto;
 }
 
-/* form */
+/* input */
 
 input, textarea {
 	margin: 5px 0px;
